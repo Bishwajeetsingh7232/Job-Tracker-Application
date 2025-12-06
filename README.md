@@ -178,3 +178,20 @@ src/
 
 ```
 ---
+### Home Page
+![Login Page](screenshots/HomePage.png)
+
+### Login Page
+![Login Page](screenshots/LoginPage.png)
+
+### Applications Table
+![Applications Table](screenshots/ApplicationPage.png)
+
+### Dashboard Page
+![Dashboard Summary](screenshots/DashboardPage.png)
+
+### Add Application Page
+![Dashboard Summary](screenshots/AddApplicationsPage.png)
+
+---
+Thanks
