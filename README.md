@@ -179,19 +179,19 @@ src/
 ```
 ---
 ### Home Page
-![Login Page](screenshots/HomePage.png)
+![Login Page](screentshots/HomePage.png)
 
 ### Login Page
-![Login Page](screenshots/LoginPage.png)
+![Login Page](screentshots/LoginPage.png)
 
 ### Applications Table
-![Applications Table](screenshots/ApplicationPage.png)
+![Applications Table](screentshots/ApplicationPage.png)
 
 ### Dashboard Page
-![Dashboard Summary](screenshots/DashboardPage.png)
+![Dashboard Summary](screentshots/DashboardPage.png)
 
 ### Add Application Page
-![Dashboard Summary](screenshots/AddApplicationsPage.png)
+![Dashboard Summary](screentshots/AddApplicationsPage.png)
 
 ---
 Thanks
